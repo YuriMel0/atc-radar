@@ -121,16 +121,6 @@ atc-radar/
 
 ---
 
-## 🔮 Próximos passos
-
-- [ ] Autenticação com OpenSky para maior rate limit
-- [ ] Auto-refresh configurável
-- [ ] Histórico de posições (trails)
-- [ ] Filtro por país de origem
-- [ ] Deploy no Streamlit Cloud
-
----
-
 ## 📄 Licença
 
 MIT License — use à vontade para estudos e portfólio.
