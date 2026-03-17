@@ -1,5 +1,7 @@
 # ✈ ATC Radar
 
+![Screenshot](assets/app_runing.png)
+
 Visualizador de tráfego aéreo em tempo real construído com Python e Streamlit, consumindo dados reais da [OpenSky Network](https://opensky-network.org).
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
